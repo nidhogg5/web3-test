@@ -1,5 +1,8 @@
 const web3 = require('./library/web3')
-const {andy, ben} = require('./library/account')
+const {
+    andy,
+    ben
+} = require('./library/account')
 
 web3.eth.sendTransaction({
     from: andy,
