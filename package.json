@@ -1,7 +1,7 @@
 {
   "name": "web3_test",
   "version": "1.0.0",
-  "description": "",
+  "description": "1. npm install",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.0.0-beta.26"
-  }
+    "web3": "^1.0.0-beta.29"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidhogg5/web3-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nidhogg5/web3-test/issues"
+  },
+  "homepage": "https://github.com/nidhogg5/web3-test#readme"
 }
